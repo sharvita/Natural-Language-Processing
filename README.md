@@ -13,4 +13,4 @@ Embeddings
 Assignment 4 (A4):
 Transformers
 
-Each folder has a read.Me that you can refer to 
+Each folder has a Read.Me or PDF files that you can refer to 
